@@ -1,0 +1,12 @@
+
+### requirements.txt
+
+```plaintext
+torch==1.13.1
+torchvision==0.14.1
+transformers==4.21.1
+Pillow==9.2.0
+tkinterdnd2==0.3.0
+
+
+###All this are needed version of the library to sucessfully run the bot, you can install the latest one 
