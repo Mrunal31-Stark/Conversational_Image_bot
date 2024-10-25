@@ -27,8 +27,11 @@ To run this project, you'll need to install the required dependencies. Follow th
    cd Conversational-Image-Chatbot
 2. Set up a virtual environment (optional but recommended):
 
-python -m venv botenv
-source botenv/bin/activate  # On Windows use `botenv\Scripts\activate`
+#python -m venv botenv
+
+#source botenv/bin/activate  
+
+# On Windows use `botenv\Scripts\activate`
 
 
 source myenv/bin/activate
