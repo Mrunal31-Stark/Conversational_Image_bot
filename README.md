@@ -29,12 +29,13 @@ To run this project, you'll need to install the required dependencies. Follow th
 
 #python -m venv botenv
 
-#source botenv/bin/activate  
+source botenv/bin/activate  
 
-# On Windows use `botenv\Scripts\activate`
+ -On Windows use 
+`botenv\Scripts\activate`
 
-
-source myenv/bin/activate
+- On MacOs/linux
+`source myenv/bin/activate`
 
 3. Install the required packages:
 
@@ -46,14 +47,15 @@ python bot.py
 2. Follow the GUI instructions to upload an image, generate a caption, and ask questions.
 
 **Key Learnings**
-*.Integrated various AI technologies to create an interactive application.
-.Enhanced understanding of natural language processing and computer vision.
-.Improved coding skills in Python and experience with GUI development.*
+*- Integrated various AI technologies to create an interactive application.
+- Enhanced understanding of natural language processing and computer vision.
+- Improved coding skills in Python and experience with GUI development.
+.*
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute to this project.
 
 Credits :
-1. https://github.com/Veer-w
-2 . https://github.com/Mrunal31-Stark
+-1. https://github.com/Veer-w
+-2 . https://github.com/Mrunal31-Stark
 
 
