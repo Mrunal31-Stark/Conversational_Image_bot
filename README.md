@@ -54,10 +54,6 @@ python bot.py
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to contribute to this project.
 
-**Check out the Working of the project here**
-Conversational_Image_bot
-https://github.com/Mrunal31-Stark/Conversational_Image_bot/Conversational Image bot demo 1.mp4
-
 Credits :
 -1. https://github.com/Veer-w
 -2 . https://github.com/Mrunal31-Stark
